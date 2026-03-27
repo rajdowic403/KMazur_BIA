@@ -5170,19 +5170,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admstud\\.nuget\\packages\\": {}
+    "C:\\Users\\rajdowic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admstud\\Desktop\\lab3\\KMazur_BIA\\backend\\CloudBackend.csproj",
+      "projectUniqueName": "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\CloudBackend.csproj",
       "projectName": "CloudBackend",
-      "projectPath": "C:\\Users\\admstud\\Desktop\\lab3\\KMazur_BIA\\backend\\CloudBackend.csproj",
-      "packagesPath": "C:\\Users\\admstud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admstud\\Desktop\\lab3\\KMazur_BIA\\backend\\obj\\",
+      "projectPath": "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\CloudBackend.csproj",
+      "packagesPath": "C:\\Users\\rajdowic\\.nuget\\packages\\",
+      "outputPath": "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admstud\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rajdowic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
