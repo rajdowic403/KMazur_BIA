@@ -1,16 +1,8 @@
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\CloudBackend.exe
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\web.config
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\appsettings.Development.json
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\appsettings.json
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\package-lock.json
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\package.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\appsettings.Development.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\appsettings.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\CloudBackend.deps.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\CloudBackend.runtimeconfig.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\CloudBackend.staticwebassets.endpoints.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\package-lock.json
-D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\publish\package.json
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\CloudBackend.dll
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\CloudBackend.runtimeconfig.json
 D:\1-Projekty-stron\BIA\KMazur_BIA\backend\publish\CloudBackend.pdb
