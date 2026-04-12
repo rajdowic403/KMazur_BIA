@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\CloudBackend.csproj": {}
+    "C:\\Users\\student-wroclaw\\Desktop\\Nowy folder\\KMazur_BIA\\backend\\CloudBackend.csproj": {}
   },
   "projects": {
-    "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\CloudBackend.csproj": {
+    "C:\\Users\\student-wroclaw\\Desktop\\Nowy folder\\KMazur_BIA\\backend\\CloudBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\CloudBackend.csproj",
+        "projectUniqueName": "C:\\Users\\student-wroclaw\\Desktop\\Nowy folder\\KMazur_BIA\\backend\\CloudBackend.csproj",
         "projectName": "CloudBackend",
-        "projectPath": "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\CloudBackend.csproj",
-        "packagesPath": "C:\\Users\\rajdowic\\.nuget\\packages\\",
-        "outputPath": "D:\\1-Projekty-stron\\BIA\\KMazur_BIA\\backend\\obj\\",
+        "projectPath": "C:\\Users\\student-wroclaw\\Desktop\\Nowy folder\\KMazur_BIA\\backend\\CloudBackend.csproj",
+        "packagesPath": "C:\\Users\\admstud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\student-wroclaw\\Desktop\\Nowy folder\\KMazur_BIA\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rajdowic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admstud\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -44,6 +44,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.13, )"
