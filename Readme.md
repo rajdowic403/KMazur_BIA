@@ -2,6 +2,7 @@
 
 Projekt natywnej aplikacji chmurowej realizowany w architekturze 3-warstwowej.
 
+
 ## Deklaracja Architektury (Mapowanie Azure)
 Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Service) w chmurze Azure.
 
@@ -21,4 +22,4 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
 * [x] **Artefakt 6:** Aplikacja wdrożona w Azure
 * [x] **Artefakt 7:** Zabezpieczona aplikacja
 * [x] **Artefakt 7:** Wybudowany “bezpiecznik” i wdrożony automatu CI/CD
-> **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje 'Quick Start', opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
+> **Informacja:** Dokumentacja znajduje się w pliku docs.
